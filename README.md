@@ -1,6 +1,6 @@
 # Student Management System (C++)
 
-##Descritption
+## Descritption
 A console-based application to manage student records using C++.
 
 ## Features
@@ -10,7 +10,7 @@ A console-based application to manage student records using C++.
 - Delete student reocrd
 - Update student details
 
-##Technologies Used
+## Technologies Used
 -C++
 -File Handling
 -STL(vector)
